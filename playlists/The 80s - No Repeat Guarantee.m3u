@@ -1,0 +1,15 @@
+#EXTM3U
+# Playlist: The 80s - No Repeat Guarantee
+# Añade tus entradas sustituyendo las líneas de ejemplo.
+# Formato por entrada:
+# #EXTINF:<duración_en_segundos>,<Artista - Título>
+# <URL o ruta local>
+
+# Ejemplos (descomenta/sustituye por tus URLs reales):
+#EXTINF:210,Michael Jackson - Billie Jean
+#https://example.com/80s/billie_jean.mp3
+#EXTINF:198,Madonna - Like a Virgin
+#https://example.com/80s/like_a_virgin.mp3
+
+# Para que la lista funcione, elimina el carácter '#' en las líneas de ejemplo
+# y reemplaza las URLs por las tuyas.
