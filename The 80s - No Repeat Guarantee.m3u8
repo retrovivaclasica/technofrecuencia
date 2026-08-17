@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:210,Michael Jackson - Billie Jean
+https://example.com/80s/billie_jean.mp3
+#EXTINF:198,Madonna - Like a Virgin
+https://example.com/80s/like_a_virgin.mp3
+#EXTINF:243,Duran Duran - Rio
+https://example.com/80s/rio.mp3
+#EXTINF:215,Depeche Mode - Just Can't Get Enough
+https://example.com/80s/just_cant_get_enough.mp3
+#EXTINF:260,The Cure - Just Like Heaven
+https://example.com/80s/just_like_heaven.mp3
+
+# Notas:
+# - Sustituye las URLs de ejemplo por las rutas o streams reales.
+# - Este archivo está en UTF-8 y usa la extensión .m3u8 para compatibilidad con caracteres especiales.
